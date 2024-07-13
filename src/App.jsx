@@ -80,7 +80,7 @@ const App = () => {
         </section>
 
         <div className=" w-full xlg:w-fit max-w-[720px] lg:max-w-[900px] sm:p-10 p-[5vw] pt-0 mx-auto xlg:mx-0 ">
-          <h1 className=" text-5xl sm:text-6xl  pb-12 w-fit font-bold">
+          <h1 className=" text-4xl sm:text-6xl  pb-12 w-fit font-bold">
             Desserts
           </h1>
           <ItemContainer

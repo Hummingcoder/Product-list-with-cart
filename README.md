@@ -24,9 +24,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/desktop-design-selected.jpg)
+![](public/assets/images/desktop-design-selected.jpg)
 
 ### Links
 
-- Solution URL: [Here]()
-- Live Site URL: [Here]()
+- Solution URL: [Here](https://www.frontendmentor.io/solutions/product-list-with-cart-1VNQ1snnyP)
+- Live Site URL: [Here](https://hummingcoder.github.io/Product-list-with-cart/)
